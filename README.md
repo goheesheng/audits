@@ -1,4 +1,4 @@
-# Eesheng's Portfolio
+# Eesheng's Public Web3 Audits Portfolio
 
 ## Summary
 For an audit, reach out via:
@@ -25,9 +25,5 @@ For an audit, reach out via:
 | [Renzo](https://github.com/goheesheng/audits/blob/main/contests/2024-04-Renzo.md) | Code4rena | NFT Marketplace              | [3H](https://github.com/goheesheng/audits/blob/main/contests/2024-04-Renzo.md) |
 | [Teller Finance](https://github.com/goheesheng/audits/blob/main/contests/2024-04-teller-finance.md) | Sherlock  | Lending, Margin Trading, NFTs                      | [1H](https://github.com/goheesheng/audits/blob/main/contests/2024-04-teller-finance.md) |
 | [Titles](https://github.com/goheesheng/audits/blob/main/contests/2024-04-titles.md) | Sherlock | NFTs               | [1H](https://github.com/goheesheng/audits/blob/main/contests/2024-04-titles.md) |
-
-
-
-My submissions for all audit contests can be found [here](https://github.com/goheesheng/audits)
 
 Public Sherlock Profile: https://audits.sherlock.xyz/watson/eeshenggoh
